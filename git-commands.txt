@@ -1,4 +1,4 @@
-Here’s a structured progression of Git commands from beginner-friendly basics to advanced workflows. This way, you can build confidence step by step:
+A structured progression of Git commands from beginner friendly basics to advanced workflows. This way, you can build confidence step by step:
 
 🟢 Basic Commands (Foundation)
 
